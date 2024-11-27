@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML Page</title>
+  </head>
+  <body>
+    <h1>Welcome to My First HTML Page</h1>
+    <p>This is a paragraph showcasing the <strong>basic tags</strong> in HTML.</p>
+    <p>HTML is fun!</p>
+  </body>
+</html>
